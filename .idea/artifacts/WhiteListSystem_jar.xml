@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="WhiteListSystem:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/WhiteListSystem_jar</output-path>
-    <root id="archive" name="WhiteListSystem.jar">
-      <element id="module-output" name="WhiteListSystem" />
-    </root>
-  </artifact>
-</component>
