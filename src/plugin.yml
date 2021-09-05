@@ -1,0 +1,5 @@
+name: WhiteListSystem
+version: 1.0-SNAPSHOT
+author: laarky17
+
+main: plugin.dev.laarky17.WhiteList.EntryPoint
